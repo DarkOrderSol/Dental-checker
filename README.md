@@ -27,8 +27,9 @@ torch
 torchvision
 
 here is a short code run in terminal to install them all :
+```jc
 pip install gradio ultralytics pillow numpy torch torchvision
-
+```
 and uncompress the file to use 
 
 
