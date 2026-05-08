@@ -32,4 +32,4 @@ pip install gradio ultralytics pillow numpy torch torchvision
 ```
 and uncompress the file to use 
 
-
+If you want to add your own images, add panoramic xray images to the images folder included and select them from the dropdown list
