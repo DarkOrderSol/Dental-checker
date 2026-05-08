@@ -1,3 +1,5 @@
+Download the zip file from [releases](https://github.com/DarkOrderSol/Dental-checker/releases/tag/The_project)
+
 This project contains the three trained models which are :-
 
 1.Quadrant detection( identifies jaw quadrants ) 
